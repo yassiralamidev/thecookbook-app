@@ -1,0 +1,8 @@
+export {default as Header} from './Home/Header'
+export {default as RandomRecipe} from './Home/RandomRecipe'
+export {default as Categories} from './Home/Categories'
+export {default as Areas} from './Home/Areas'
+export {default as Input } from './Search/Input'
+export {default as Results } from './Search/Results'
+export {default as CustomText} from './UI/CustomText'
+export {default as MealCard} from './UI/MealCard'
