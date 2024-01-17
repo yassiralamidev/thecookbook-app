@@ -1,6 +1,6 @@
 # thecookbook 
 
-Recipes App Using [React Native](https://reactnative.dev/) & [Expo](https://expo.dev/) & [Themealdb API](https://www.themealdb.com/api.php)
+Recipes App Using [React Native](https://reactnative.dev/), [Expo](https://expo.dev/) & [Themealdb API](https://www.themealdb.com/api.php)
 
 ## Features
 
