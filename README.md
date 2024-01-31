@@ -2,6 +2,13 @@
 
 Recipes App Using [React Native](https://reactnative.dev/), [Expo](https://expo.dev/) & [Themealdb API](https://www.themealdb.com/api.php)
 
+## Screenshots
+
+| HomeScreen                          | Category                         | Area                          | MealInfo                          |
+| -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
+| ![Home](./screenshots/Home.png)       | ![Category](./screenshots/Category.png)       | ![Area](./screenshots/Area.png)       | ![MealInfo](./screenshots/MealInfo.png)       |
+
+
 ## Features
 
 - Explore recipes by categories and areas.
